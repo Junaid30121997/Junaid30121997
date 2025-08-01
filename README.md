@@ -1,4 +1,6 @@
+   ![log](https://github.com/Junaid30121997/Junaid30121997/blob/main/Data%2BAnalyst%2B(1)-min%2B(1)-min-min%20(1).gif)
 
+  
 <h1 align="center">Hi 👋, I'm Mohammad Junaid Ahmed</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
