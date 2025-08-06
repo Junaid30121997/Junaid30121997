@@ -1,4 +1,4 @@
-   . . . . . . . . . . . . . . . . .  ![log](https://github.com/Junaid30121997/Junaid30121997/blob/main/Data%2BAnalyst%2B(1)-min%2B(1)-min-min%20(1).gif)
+ . . .   . . . . . . . . . . . . . . . . .  ![log](https://github.com/Junaid30121997/Junaid30121997/blob/main/Data%2BAnalyst%2B(1)-min%2B(1)-min-min%20(1).gif)
 
 
 
