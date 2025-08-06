@@ -1,9 +1,9 @@
- . . .   . . . . . . . . . . . . . . . . .  ![log](https://github.com/Junaid30121997/Junaid30121997/blob/main/Data%2BAnalyst%2B(1)-min%2B(1)-min-min%20(1).gif)
+<p align="center">
+  <img src="https://github.com/Junaid30121997/Junaid30121997/blob/main/Data%2BAnalyst%2B(1)-min%2B(1)-min-min%20(1).gif?raw=true" alt="banner">
+</p>
 
+   <h1 align="center">Hi 👋, I'm Mohammad Junaid Ahmed</h1>
 
-
-  
-<h1 align="center">Hi 👋, I'm Mohammad Junaid Ahmed</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
 <img align="right" alt="Data Analyst" width="400" src="https://img.freepik.com/premium-vector/illustration-web-development-programmer-coding-website_746655-2851.jpg">
@@ -19,7 +19,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/mohammadjunaidahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mohammadjunaidahmed" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/mohammadjunaidahmed" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  
+  <a href="https://github.com/Junaid30121997" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
