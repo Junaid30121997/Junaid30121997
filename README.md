@@ -1,8 +1,7 @@
 <p align="center">
   <img src="https://github.com/Junaid30121997/Junaid30121997/blob/main/Data%2BAnalyst%2B(1)-min%2B(1)-min-min%20(1).gif?raw=true" alt="banner">
 </p>
-Hi there, I'm Mohammad Junaid Ahmed 
-Data Analyst | SQL | Python | Power BI
+
 
    <h1 align="center">Hi 👋, I'm Mohammad Junaid Ahmed</h1>
 
@@ -13,7 +12,33 @@ Data Analyst | SQL | Python | Power BI
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junaid30121997&label=Profile%20views&color=0e75b6&style=flat" alt="junaid30121997" /> </p>
 
-- 🔭 I’m currently working on **E-Commerce Delivery Performance Analyzer**
+## About Me:
+- I am passionate about turning data into actionable insights. I enjoy creating dashboards, automating reports, and solving business problems using data.
+Currently exploring Data Analytics, Machine Learning, and Visualization projects.
+
+## Skills:
+Data Analysis: SQL, Excel, Power BI, Tableau
+Programming: Python, Pandas, NumPy, Matplotlib
+Other Tools: Git, GitHub, Snowflake
+Soft Skills: Critical Thinking, Communication, Problem Solving
+
+## Featured Projects :---
+
+## Amazon ML Data Associate Test Projects
+-Python, SQL
+
+-Validated order and customer data
+
+## Data Analysis Projects
+-Power BI, SQL, Excel, Python
+
+-Created dashboards and automated reporting
+
+## Python & SQL Practice Projects
+-Python, SQL
+
+-Scripts for practice and data manipulation
+
 
 - 🌱 I’m currently learning **Machine Learning**
 
@@ -38,3 +63,6 @@ Data Analyst | SQL | Python | Power BI
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=junaid30121997&" alt="junaid30121997" /></p>
 
+## Quote:
+
+“Turning data into meaningful insights, one project at a time.”
