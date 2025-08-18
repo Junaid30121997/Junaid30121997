@@ -25,9 +25,9 @@ Currently exploring Data Analytics, Machine Learning, and Visualization projects
 
 -Soft Skills: Critical Thinking, Communication, Problem Solving
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=junaid30121997&show_icons=true&locale=en" alt="junaid30121997">
 
 ## Featured Projects :---
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=junaid30121997&show_icons=true&locale=en" alt="junaid30121997">
 
 ## Amazon ML Data Associate Test Projects
 -Python, SQL
