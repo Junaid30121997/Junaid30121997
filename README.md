@@ -17,10 +17,13 @@
 Currently exploring Data Analytics, Machine Learning, and Visualization projects.
 
 ## Skills:
-Data Analysis: SQL, Excel, Power BI, Tableau
-Programming: Python, Pandas, NumPy, Matplotlib
-Other Tools: Git, GitHub, Snowflake
-Soft Skills: Critical Thinking, Communication, Problem Solving
+-Data Analysis: SQL, Excel, Power BI, Tableau
+
+-Programming: Python, Pandas, NumPy, Matplotlib
+
+-Other Tools: GitHub, Snowflake
+
+-Soft Skills: Critical Thinking, Communication, Problem Solving
 
 ## Featured Projects :---
 
