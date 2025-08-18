@@ -1,6 +1,8 @@
 <p align="center">
   <img src="https://github.com/Junaid30121997/Junaid30121997/blob/main/Data%2BAnalyst%2B(1)-min%2B(1)-min-min%20(1).gif?raw=true" alt="banner">
 </p>
+Hi there, I'm Mohammad Junaid Ahmed 
+Data Analyst | SQL | Python | Power BI
 
    <h1 align="center">Hi 👋, I'm Mohammad Junaid Ahmed</h1>
 
