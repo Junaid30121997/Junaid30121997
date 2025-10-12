@@ -1,70 +1,128 @@
+
+
+
+
+
+
+
+
+  
 <p align="center">
-  <img src="https://github.com/Junaid30121997/Junaid30121997/blob/main/Data%2BAnalyst%2B(1)-min%2B(1)-min-min%20(1).gif?raw=true" alt="banner">
+  <img src="https://github.com/Junaid30121997/Junaid30121997/blob/main/Data%2BAnalyst%2B(1)-min%2B(1)-min-min%20(1).gif?raw=true" alt="banner" width="100%"/>
 </p>
 
-
-   <h1 align="center">Hi 👋, I'm Mohammad Junaid Ahmed</h1>
-
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h1 align="center">Hi 👋, I'm Mohammad Junaid Ahmed</h1>
+<h3 align="center">A Passionate Data Analyst from India </h3>
 
 <img align="right" alt="Data Analyst" width="400" src="https://img.freepik.com/premium-vector/illustration-web-development-programmer-coding-website_746655-2851.jpg">
 
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=junaid30121997&label=Profile%20views&color=0e75b6&style=flat" alt="junaid30121997" /> 
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=junaid30121997&label=Profile%20views&color=0e75b6&style=flat" alt="junaid30121997" /> </p>
+---
 
-## About Me:
-- I am passionate about turning data into actionable insights. I enjoy creating dashboards, automating reports, and solving business problems using data.
-Currently exploring Data Analytics, Machine Learning, and Visualization projects.
+## 🚀 About Me
+- 🔍 Passionate about **turning data into actionable insights**  
+- 📊 Experienced in **data visualization, report automation, and analysis**  
+- 💡 Currently exploring **Machine Learning** and **Advanced Analytics**  
+- 🎯 Focused on solving **real-world business problems using data**  
 
-## Skills:
--Data Analysis: SQL, Excel, Power BI, Tableau
+---
 
--Programming: Python, Pandas, NumPy, Matplotlib
+## 🧠 Skills
 
--Other Tools: GitHub, Snowflake
+### 🔹 Data Analysis & Visualization
+- **SQL | MySQL | Microsoft SQL Server**  
+- **Power BI | Python | Excel | Power Automate | Copilot**  
 
--Soft Skills: Critical Thinking, Communication, Problem Solving
+### 🔹 Programming & Data Handling
+- **Python | Pandas | NumPy | Matplotlib | Seaborn**  
 
+### 🔹 Other Tools
+- **GitHub | Snowflake | Copilot**  
 
-## Featured Projects :---
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=junaid30121997&show_icons=true&locale=en" alt="junaid30121997">
+### 🔹 Soft Skills
+- Critical Thinking | Communication | Problem Solving | Collaboration  
 
-## Amazon ML Data Associate Test Projects
--Python, SQL
+---
 
--Validated order and customer data
+## 🏗️ Featured Projects
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=junaid30121997&show_icons=true&locale=en&theme=dark" alt="junaid30121997" width="400"/>
 
-## Data Analysis Projects
--Power BI, SQL, Excel, Python 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=junaid30121997&" alt="junaid30121997">
+### 📦 Amazon ML Data Associate Test Projects
+- 🔹 Technologies: Python, SQL, AI
+- 🔹 Tasks: Validated order and customer data, performed data cleaning and quality checks  
 
--Created dashboards and automated reporting
+---
 
-## Python & SQL Practice Projects
--Python, SQL
+### 📊 Data Analysis Projects
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=junaid30121997&theme=dark" alt="junaid30121997" width="400"/>
 
--Scripts for practice and data manipulation
+- 🔹 Tools: Power BI, SQL, Excel, Python, Power Automate, Copilot
+- 🔹 Developed dashboards, automated reports, and business insights  
 
+---
 
-- 🌱 I’m currently learning **Machine Learning**
+### 💻 Python & SQL Practice Projects
+- 🔹 Python scripts for automation and data manipulation  
+- 🔹 SQL queries for analytical problem-solving  
 
-- 📫 How to reach me **mohammedjunaid689@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+## 🌱 Currently Learning
+- Machine Learning  
+- Predictive Analytics  
+- Data Pipeline Automation  
+
+---
+
+## 📫 Contact Me
+📧 **Email:** [mohammedjunaid689@gmail.com](mailto:mohammedjunaid689@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/mohammadjunaidahmed](https://linkedin.com/in/mohammadjunaidahmed)  
+💻 **GitHub:** [github.com/Junaid30121997](https://github.com/Junaid30121997)
+
+---
+
+## 🌐 Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/mohammadjunaidahmed" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  
   <a href="https://github.com/Junaid30121997" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
 
-## Quote:
+## 🧰 Languages and Tools
+<p align="left">
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" style="background:white; border-radius:6px;"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="background:white; border-radius:6px;"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" style="background:white; border-radius:6px;"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="background:white; border-radius:6px;"/>
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" style="background:white; border-radius:6px;"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/power-automate/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Microsoft_Power_Automate_%282020%29.svg" alt="power automate" width="40" height="40" style="background:white; border-radius:6px;"/>
+  </a>
+  <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/copilot/copilot.png" alt="github copilot" width="40" height="40" style="background:white; border-radius:6px;"/>
+  </a>
+</p>
 
-“Turning data into meaningful insights, one project at a time.”
+---
+
+## 💬 Quote
+> “Turning data into meaningful insights, one project at a time.”
