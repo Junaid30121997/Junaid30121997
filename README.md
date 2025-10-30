@@ -114,7 +114,7 @@
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" style="background:white; border-radius:6px;"/>
   </a>
-  <a href="https://learn.microsoft.com/en-us/power-automate/" target="_blank" rel="noreferrer">
+  <a href="https://www.microsoft.com/en-us/power-automate/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Microsoft_Power_Automate_%282020%29.svg" alt="power automate" width="40" height="40" style="background:white; border-radius:6px;"/>
   </a>
   <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer">
